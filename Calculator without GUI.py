@@ -5,7 +5,6 @@
 
 
 import math
-import pylint
 
 def calculator():
     while True: 
