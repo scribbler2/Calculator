@@ -5,7 +5,7 @@ import os
 !pip install snakecase
 
 for filename in os.listdir():
-    os.rename(filename, snakecase(filename))
+    os.rename(filename, snakecase(Calculator))
 
 class Calculator:
     
